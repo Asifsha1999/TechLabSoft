@@ -1,6 +1,7 @@
 'use client'
 import React from 'react'
 import Cards from './cards/Cards';
+import Projects from './ProjectSection/Projects';
 
 
 const HomePage = () => {
@@ -24,6 +25,7 @@ const HomePage = () => {
           </div>
         </div>
       <Cards/>
+      <Projects/>
       </div>
     </div>
   );

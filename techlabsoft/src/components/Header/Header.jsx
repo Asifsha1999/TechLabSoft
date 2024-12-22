@@ -18,7 +18,7 @@ const Header = () => {
               <a href="/" className="text-black-300 hover:bg-black-700 hover:text-pink-500 hover:scale-110 transition ease-in-out duration-300  px-3 py-2 rounded-md text-sm font-medium">Home</a>
               <a href="/services" className="text-black-300 hover:bg-black-700 hover:text-pink-500 hover:scale-110 transition ease-in-out duration-300 px-3 py-2 rounded-md text-sm font-medium">Services</a>
               <a href="/about" className="text-black-300 hover:bg-black-700 hover:text-pink-500 hover:scale-110 transition ease-in-out duration-300 px-3 py-2 rounded-md text-sm font-medium">About</a>
-              <a href="/contact" className="text-black-300 hover:bg-black-700 hover:text-pink-500 hover:scale-110 transition ease-in-out duration-300 px-3 py-2 rounded-md text-sm font-medium">Contact</a>
+              <a href="/contact" className="text-white-300 bg-pink-500 hover:bg-black-700 hover:text-white hover:scale-110 transition ease-in-out duration-300 px-3 py-2 rounded-md text-sm font-medium">Contact</a>
             </div>
           </div>
           {/* Add other elements like login button here if needed */}
